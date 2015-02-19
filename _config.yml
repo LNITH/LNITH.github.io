@@ -1,11 +1,11 @@
 # Site settings
 title: Last Name in the Hat
-header-img: img/home-bg.jpg
-email: your-email@yourdomain.com
+header-img: img/home-bg2.jpg
+email: lastnameinthehat@gmail.com
 description: "Last Name in the Hat is a small game development team working on creating Kuraz!"
 baseurl: ""
 url: "http://lnith.github.io"
-twitter_username: LNitH
+twitter_username: LNintheHat
 github_username:
 facebook_username:  LNitH
 
