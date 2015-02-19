@@ -1,13 +1,13 @@
 # Site settings
-title: Clean Blog
+title: Last Name in the Hat
 header-img: img/home-bg.jpg
 email: your-email@yourdomain.com
-description: "Write your site description here. It will be used as your sites meta description as well!"
+description: "Last Name in the Hat is a small game development team working on creating Kuraz!"
 baseurl: ""
 url: "http://lnith.github.io"
-twitter_username: SBootstrap
-github_username:  davidtmiller
-facebook_username:  IronSummitMedia
+twitter_username: LNitH
+github_username:
+facebook_username:  LNitH
 
 # Build settings
 markdown: kramdown
