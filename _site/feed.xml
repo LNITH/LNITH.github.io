@@ -5,9 +5,28 @@
     <description>Last Name in the Hat is a small game development team working on creating Kuraz!</description>
     <link>http://lnith.github.io/</link>
     <atom:link href="http://lnith.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Thu, 26 Feb 2015 14:08:00 -0800</pubDate>
-    <lastBuildDate>Thu, 26 Feb 2015 14:08:00 -0800</lastBuildDate>
+    <pubDate>Thu, 26 Feb 2015 14:10:41 -0800</pubDate>
+    <lastBuildDate>Thu, 26 Feb 2015 14:10:41 -0800</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Kuraz Introduction</title>
+        <description>&lt;p&gt;Welcome to the first developer blog post of Last Name in the Hat! This will be a weekly (maybe bi-weekly) blog keeping everyone up to date with the latest developments for our first title, “Kuraz”, a tactical turn-based RPG where you control a small army of elite mercenaries and soldiers.&lt;/p&gt;
+
+&lt;p&gt;To explain the game a bit more, gameplay will consist of commanding a squad on a variety of different battlefields. You’ll maneuver your troops on a grid to utilize cover, flank the opposition, and ultimately overcome your foes. After you defeat your foes, you can use the resources gained from completing the mission to improve your army or hire more soldiers. And thats the very basics of the game, mind you the bare basics.&lt;/p&gt;
+
+&lt;p&gt;To go into more detail concerning the combat gameplay, each unit is equipped with a shield which is capable of stopping a few ranged attacks before it breaks and has to recharge. The way shields are set up, is they determine whether or not an object is moving at a high enough velocity that could damage the wearer. This allows the wearer to survive a bullet to the head, yet still be able to high-five his squadmate. Because of this, melee weapons have actually been making a resurgence as they can bypass the shields of their target. Additionally, our method of how effective cover is and whether or not someone is flanking another is a lot more math intensive than just using a simple ray to determine if there is cover in the way. We’ll go over the actual calculation in a future post, but suffice to say, based off of the angle you are attacking someone then determines how effective the cover they are behind will be. Lastly, every unit has a particular range their weapons excel at. Firing at enemies in this range confers a bonus to attacking, while firing outside of this range gives a malus. So its entirely possible for that guy with a pistol to snipe the sniper across the map… but hes probably better off taking cover.&lt;/p&gt;
+
+&lt;p&gt;The management aspect of our game is fairly straight forward as you might expect. You have a number of different unit types with varying attributes that lend themselves to certain play styles. Additionally, you are free to hire units as you see fit whether that is entirely snipers or tons of medics. With all of these units, they’ll need equipment, and there is a plethora of different items to customize to your playstyle. Maybe you’d prefer shields that can take an extra hit or two, but have to take an extra three turns to recharge after their battery is drained; Or perhaps, a shield that can recharge after only a turn or two, but can only stop two shots before its drained. One thing of note, is how these units gain experience. Each time a unit returns from combat, they will gain a certain amount of experience based off of how difficult the mission was. For hero units (like the main protagonist) their experience is their own. However, for units like your average assault trooper, the collective experience gained by all assaults on the mission will be added to the class as a whole. &lt;/p&gt;
+
+&lt;p&gt;And thats pretty much the jist of Kuraz. We’ll continue updating this devblog with more info (both technical and progress wise) as we continue to develop the game over the coming months. Stay tuned!&lt;/p&gt;
+</description>
+        <pubDate>Thu, 26 Feb 2015 04:00:00 -0800</pubDate>
+        <link>http://lnith.github.io/2015/02/26/Kuraz-Introduction/</link>
+        <guid isPermaLink="true">http://lnith.github.io/2015/02/26/Kuraz-Introduction/</guid>
+        
+        
+      </item>
     
       <item>
         <title>Devblog 01</title>
