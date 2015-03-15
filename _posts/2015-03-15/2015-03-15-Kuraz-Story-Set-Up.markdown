@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      "Kuraz Story Set-Up"
-subtitle:   "Getting a feel for the game"
+title:      "Kuraz Story"
+subtitle:   "Setting Up the Story"
 date:       2015-03-15 12:00:00
 author:     "Cody Way, Vince Hutzell"
 ---
