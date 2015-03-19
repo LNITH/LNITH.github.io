@@ -8,8 +8,8 @@ author:     "Cody Way, Vince Hutzell"
 
 <p>So last time on our devblog here we gave a quick overview of some of the key mechanics of <i>Kuraz</i>. Today, we’re going to share just a set-up of the story you’ll be experiencing throughout the game.</p>
 
-<img src="{{ site.baseurl }}/img/Kuraz_Planet_View.png" alt="Kuraz from space">
-<img class="centered-image" src="{{ site.baseurl }}/img/Kuraz_Planet_View.png" alt="Kuraz from space">
+<!-- <img src="{{ site.baseurl }}/img/Kuraz_Planet_View.png" alt="Kuraz from space"> -->
+<img style="margin: 0 auto" src="{{ site.baseurl }}/img/Kuraz_Planet_View.png" alt="Kuraz from space">
 
 
 <p><i>Kuraz</i> takes place several hundred years in the future on the game’s titular planet. Kuraz is ignored when the colonization rush happens due to being very inhospitable. The water on the planet is somewhat acidic and thusly there is very little vegetation (if any) on the planet. It is only when a group of colonists - seeking to live a life with literally zero government interference - use the planet as a chance to truly live out that dream. Without the funds to have the planet properly terraformed, these colonists make due with what resources they could scrape together. They discovered Kuraz’s subterranean water reservoirs, purified as it seeped through the planet’s soil (one of the few uses for Kuraz’s vast amounts of dirt and sand).  </p>

@@ -5,15 +5,16 @@
     <description>Last Name in the Hat is a small game development team working on creating Kuraz!</description>
     <link>http://lnith.github.io/</link>
     <atom:link href="http://lnith.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Thu, 19 Mar 2015 01:16:25 -0700</pubDate>
-    <lastBuildDate>Thu, 19 Mar 2015 01:16:25 -0700</lastBuildDate>
+    <pubDate>Thu, 19 Mar 2015 02:14:05 -0700</pubDate>
+    <lastBuildDate>Thu, 19 Mar 2015 02:14:05 -0700</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
         <title>Kuraz Story</title>
         <description>&lt;p&gt;So last time on our devblog here we gave a quick overview of some of the key mechanics of &lt;i&gt;Kuraz&lt;/i&gt;. Today, we’re going to share just a set-up of the story you’ll be experiencing throughout the game.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/img/Kuraz_Planet_View.png&quot; alt=&quot;Kuraz from space&quot; /&gt;&lt;/p&gt;
+&lt;!-- &lt;img src=&quot;/img/Kuraz_Planet_View.png&quot; alt=&quot;Kuraz from space&quot;&gt; --&gt;
+&lt;p&gt;&lt;img style=&quot;margin: 0 auto&quot; src=&quot;/img/Kuraz_Planet_View.png&quot; alt=&quot;Kuraz from space&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;i&gt;Kuraz&lt;/i&gt; takes place several hundred years in the future on the game’s titular planet. Kuraz is ignored when the colonization rush happens due to being very inhospitable. The water on the planet is somewhat acidic and thusly there is very little vegetation (if any) on the planet. It is only when a group of colonists - seeking to live a life with literally zero government interference - use the planet as a chance to truly live out that dream. Without the funds to have the planet properly terraformed, these colonists make due with what resources they could scrape together. They discovered Kuraz’s subterranean water reservoirs, purified as it seeped through the planet’s soil (one of the few uses for Kuraz’s vast amounts of dirt and sand).  &lt;/p&gt;
 
