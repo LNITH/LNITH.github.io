@@ -12,7 +12,7 @@ author:     "Annamarie Mickey"
 
 <p>Some incredible technology exists in this future galaxy. Terraforming, highly advanced weapons, space ships… and people with the money to buy and use it all. Most of those people, though, don’t live on Kuraz. And those that do sit up in high skyscrapers with beautiful, colorful glass domes that keep the dirt and grime of the planet out of sight and out of mind.</p>
 
-<img style="margin: 0 auto" src="{{ site.baseurl }}/img/City_Fancye.png" alt="Opulent skyscrapers">
+<img style="margin: 0 auto" src="{{ site.baseurl }}/img/City_Fancy.png" alt="Opulent skyscrapers">
 
 
 <p>Unlike the rich entrepreneurs and corrupt corporations, our story buries itself deep into that gritty dust and dirt, and the people who have to be as tough as nails to live in it. While designing the characters you’ll meet over the course of the game, I realized that these people—the true heart of the planet—have barely glimpsed the technology that created the colony on Kuraz. Brief glimpses of ships in the sky heading towards the wealthy end of the city, failed corporate attempts to clean up the slums, bits and pieces of scavenged weapons… these are the only experiences of the future’s “incredible technology” for most Kuraz citizens. And it’s hardly impressive.</p>
