@@ -5,7 +5,7 @@ date:       2015-06-03 12:00:00
 author:     "Cody Way"
 ---
 
-<img style="margin: 0 auto" src="{{ site.baseurl }}/img/Kickstarter_Poster.jpg" alt="JUNE 17TH">
+<img style="margin: 0 auto; width: 500px" src="{{ site.baseurl }}/img/Kickstarter_Poster.jpg" alt="JUNE 17TH">
 
 
 <p>Thats right, we have a date for the Kickstarter! Despite life getting in and mucking everything up a bunch, we’re still pushing forward and are insanely excited to reach a point that we can confidently release the Kickstarter!</p>
