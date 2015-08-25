@@ -5,9 +5,49 @@
     <description>Last Name in the Hat is a small game development team working on creating Kuraz!</description>
     <link>http://lnith.github.io/</link>
     <atom:link href="http://lnith.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 03 Jun 2015 19:20:02 -0700</pubDate>
-    <lastBuildDate>Wed, 03 Jun 2015 19:20:02 -0700</lastBuildDate>
+    <pubDate>Thu, 20 Aug 2015 10:40:35 -0700</pubDate>
+    <lastBuildDate>Thu, 20 Aug 2015 10:40:35 -0700</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Allow Me to Explain</title>
+        <description>&lt;p&gt;Cody here. Just wanted to say this devblog is gonna be a bit different than the previous ones as you&#39;ll notice in a moment here.&lt;/p&gt;
+
+&lt;p&gt;I first off want to apologize for the lack of updates and content concerning Kuraz and the Kickstarter since June. For some time, I&#39;ve been struggling with fear, doubt, depression, whatever it may be, and when we failed to launch the Kickstarter on the said date it just made things a ton worse. I&#39;m still having trouble forgiving myself for the mistakes that happened, but I finally woke up enough to realize that I can&#39;t keep living in the past when I still believe in this project. So my sincerest apologies to all of you, my team included. Time to get back on track and get this project launched.&lt;/p&gt;
+
+&lt;p&gt;Now, to actually discuss the project rather than myself. We are once again nearing having the Kickstarter ready for launch (more on a specific date in the next devblog) as the paperwork and Kickstarter video have been just about finished. With me getting back on track to work on more coding, there will be a pre-alpha demo in the near future, hopefully coinciding with the launch of the Kickstarter as well.&lt;/p&gt;
+
+&lt;p&gt;I wish I had some more updates for you guys, but sadly there isn&#39;t much more to say than what I have said. Know this though, this project is not dead and I&#39;ll be damned if I let it die because I wasn&#39;t feeling in the mood to work. My apologies once again, and thank you for your continued support.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 19 Aug 2015 05:00:00 -0700</pubDate>
+        <link>http://lnith.github.io/2015/08/19/Allow-Me-to-Explain/</link>
+        <guid isPermaLink="true">http://lnith.github.io/2015/08/19/Allow-Me-to-Explain/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Kickstarter Announcement</title>
+        <description>&lt;p&gt;&lt;img style=&quot;margin: 0 auto; width: 500px&quot; src=&quot;/img/NEW_Kickstarter_Date_Poster.jpg&quot; alt=&quot;JUNE 24TH&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Hey all, sadly we had some unexpected roadblocks this past week and wont be able to launch quite on time. Everything should be sorted out relatively soon so the new launch date is the 24th of June now.&lt;/p&gt;
+
+&lt;p&gt;With that, I figured I&#39;d take a moment and talk a little bit about the library that we&#39;re using to produce the game, &quot;Cocos 2D-X&quot;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img style=&quot;margin: 0 auto; width: 500px&quot; src=&quot;/img/Cocos2d-x.jpg&quot; alt=&quot;Cocos&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Cocos is a C++ library and compiler that allows a programmer to write a single set of code, and then have it run on Windows, Mac, Linux, iOS, and Android. Its really handy and convient since I would otherwise need to write up code in C++, Java, and Objective C. Not necessarilly hard, but it would be a ton of extra work that could otherwise be spent refining and tweaking the game to be just right.&lt;/p&gt;
+
+&lt;p&gt;However that isn&#39;t to say its perfect. The original developers were based in China, and thus parts of the documentation are either hastily or poorly explained. Which is frustrating when you need to understand what functions a particular class has and what they do, only to have stub articles in place of actual information. Despite that, I&#39;ve been making decent progress on understanding and working with the library and things are moving along.&lt;/p&gt;
+
+&lt;p&gt;Once we get the Kickstarter rolling we&#39;ll be putting up a blog post or two every week showcasing the main characters of our story, so keep your eyes out, and we&#39;ll see you all very soon!&lt;/p&gt;
+</description>
+        <pubDate>Sun, 14 Jun 2015 05:00:00 -0700</pubDate>
+        <link>http://lnith.github.io/2015/06/14/Kickstarter-Accouncement/</link>
+        <guid isPermaLink="true">http://lnith.github.io/2015/06/14/Kickstarter-Accouncement/</guid>
+        
+        
+      </item>
     
       <item>
         <title>Kickstarter Announcement</title>
@@ -62,7 +102,7 @@
 &lt;!-- &lt;img src=&quot;/img/Kuraz_Planet_View.png&quot; alt=&quot;Kuraz from space&quot;&gt; --&gt;
 &lt;p&gt;&lt;img style=&quot;margin: 0 auto&quot; src=&quot;/img/Kuraz_Planet_View.png&quot; alt=&quot;Kuraz from space&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;i&gt;Kuraz&lt;/i&gt; takes place several hundred years in the future on the game’s titular planet. Kuraz is ignored when the colonization rush happens due to being very inhospitable. The water on the planet is somewhat acidic and thusly there is very little vegetation (if any) on the planet. It is only when a group of colonists - seeking to live a life with literally zero government interference - use the planet as a chance to truly live out that dream. Without the funds to have the planet properly terraformed, these colonists make due with what resources they could scrape together. They discovered Kuraz’s subterranean water reservoirs, purified as it seeped through the planet’s soil (one of the few uses for Kuraz’s vast amounts of dirt and sand).  &lt;/p&gt;
+&lt;p&gt;&lt;i&gt;Kuraz&lt;/i&gt; takes place several hundred years in the future on the game’s titular planet. Kuraz is ignored when the colonization rush happens due to being very inhospitable. The water on the planet is somewhat acidic and thusly there is very little vegetation (if any) on the planet. It is only when a group of colonists - seeking to live a life with literally zero government interference - use the planet as a chance to truly live out that dream. Without the funds to have the planet properly terraformed, these colonists make due with what resources they could scrape together. They discovered Kuraz’s subterranean water reservoirs, purified as it seeped through the planet’s soil (one of the few uses for Kuraz’s vast amounts of dirt and sand).&lt;/p&gt;
 
 &lt;p&gt;And this discovery alone made Kuraz… not hospitable, perhaps, but livable. Over the course of three decades, Kuraz gains renown for the freedoms its inhabitants enjoyed, and that’s when corporations take interest. In the coming decades, several off-world corporations begin helping several corporations native to the planet grow, and generally improving the already good life on Kuraz. However, the drive for greater profits combined with the lack of any oversight, drives some corporations to begin ethically questionable practices. While only minor things at first (company script instead of money as an example) things quickly became much worse, ranging from crimes against humanity to the funding of pirates and smugglers in the nearby solar systems.With a number of corporations vying for power, waging small wars with their private armies, one corporation emerges as the “victor”, The Anderson Corporation.&lt;/p&gt;
 
